@@ -23,7 +23,7 @@ namespace AWSSDK.Examples.ChessGame
     public class ChessNetworkManager : MonoBehaviour
     {
         # region Constants and configuration values
-        private const string CognitoIdentityPoolId = "";
+        private const string CognitoIdentityPoolId = "eu-west-2:20ae8be9-cfe6-437c-8c31-75f8ff324102";
         private const string MobileAnaylticsAppId = "";
 
         // Needed only when building for Android
